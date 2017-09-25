@@ -4,7 +4,8 @@
     "details": [
     {
       "appID": "JW533K8V9M.com.test.Bookish",
-      "paths": ["/public/users/reset/*"]
+      "paths": ["*"]
+      /*"paths": ["/public/users/reset/*"]*/
     }
     ]
   }
