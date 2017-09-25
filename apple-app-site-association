@@ -5,7 +5,6 @@
     {
       "appID": "JW533K8V9M.com.test.Bookish",
       "paths": ["*"]
-      /*"paths": ["/public/users/reset/*"]*/
     }
     ]
   }
